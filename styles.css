@@ -724,3 +724,15 @@ input[type="submit"]:hover {
     margin-bottom: 50px;
   }
   
+  .team, .inst{
+    width: 100%;
+    height: 100%;
+    transition-duration: .5s;
+  }
+
+  .increase{
+    transition-duration: .5s;
+    width: 350px !important ;
+    height: 200% !important;
+    box-sizing: border-box;
+  }
